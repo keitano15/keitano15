@@ -6,7 +6,7 @@ I build practical pipelines from raw **microscopy/pathology images** and **biosi
 - Domains: Computer Vision (cell detection/segmentation/tracking), Biosignal processing (PPG→APG)
 - Stack: Python, NumPy/SciPy/pandas, scikit-learn, PyTorch, OpenCV, scikit-image, MNE
 - Now: Robust APG detection & BP-related indices; evaluation design
-- Next: EEG-based pain indices and clinically meaningful validation
+
 
 Publications / Portfolio: see links above.  
 *Note: Industrial code is private; I publish minimal reproducible notebooks on public datasets.*
