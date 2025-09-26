@@ -4,7 +4,7 @@
 I build practical pipelines from raw **microscopy/pathology images** and **biosignals (PPG/APG)** to robust features, models, and evaluation schemes. Focus on **preprocessing, feature design, and reproducible validation**.
 
 - Domains: Computer Vision (cell detection/segmentation/tracking), Biosignal processing (PPG→APG)
-- Stack: Python, NumPy/SciPy/pandas, scikit-learn, PyTorch, OpenCV, scikit-image, MNE
+- Stack: Python, NumPy/SciPy/pandas, scikit-learn, OpenCV, scikit-image
 - Now: Robust APG detection & BP-related indices; evaluation design
 
 
@@ -19,9 +19,9 @@ Publications / Portfolio: see links above.
 - ことばにする力：仮説→可視化→実装→指標づくり→報告/論文化
 
 **Tech**
-- Python（NumPy / SciPy / pandas / scikit-learn / PyTorch / matplotlib）
+- Python（NumPy / SciPy / pandas / scikit-learn  / matplotlib）
 - 画像：OpenCV / scikit-image
-- 信号：MNE ほか前処理・ピーク検出・ロバスト特徴設計
+- 信号：前処理・ピーク検出・ロバスト特徴設計
 - 数理：確率/最適化/統計モデリング
 
 **Now / Next**
