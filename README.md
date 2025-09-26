@@ -26,7 +26,7 @@ Publications / Portfolio: see links above.
 
 **Now / Next**
 - Now：PPG→APG のロバスト検出と指標化、推定モデルの汎化検証
-- Next：EEG/脳波の疼痛指標化、臨床データでの**評価設計の標準化**
+
 
 **Publications（一部）**
 - Itano K., *Automation of Foci-Cell-State Judgement with Regression Models*, SICE Trans., 2021  
